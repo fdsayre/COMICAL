@@ -9,11 +9,10 @@ My thought it to create a list (fancy name: framework) of areas/skills/competenc
 
 # TODOOOO TO THIS DOCUMENT
 
-[x] References to recommendations for best practices
-[ ] set up github repro and github pages for this content
-[ ] best places for this content to live
-[ ] move images to github and add citations
-[ ] Spell check
+- References to recommendations for best practices
+- set up github repro and github pages for this content
+- move images to github and add citations
+- Spell check
 
 
 ![Areas that Libraries can Impact](https://d2mxuefqeaa7sj.cloudfront.net/s_8C52BE63C3C9994B7D61D2D293D2CAFA1962E529CB2D5E78CAD53CCC1AB84042_1507553995845_file.jpeg)
@@ -21,14 +20,15 @@ My thought it to create a list (fancy name: framework) of areas/skills/competenc
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_8C52BE63C3C9994B7D61D2D293D2CAFA1962E529CB2D5E78CAD53CCC1AB84042_1508257276286_screenshot.png)
 
 # Why we should do this
-- Better support for computational research
-- Support for data-intensive research, big data / etc
+- Better support for computational research across disciplines
+- Links between computational research, data management, and reproducibility
+- Support for data-intensive research, big data, digital humanities, etc.
 - Data Management, Reproducibility, Rigor, and automating data processing and analysis
 
 # Meta Computational Research Skills
 The following I am calling "meta skills" as they relate less to any particular function than helping users learn whats possible and how to do general things across languages. 
 
-  - Picking a language
+ ### Picking a language
     - Why:
     - Skills:
       - R
