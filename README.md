@@ -3,24 +3,31 @@ COMputatIonal Competencies for Academic Librarians"
 
 # Computational Research Skills for Librarians: A Framework
 
-**TODO**
+This document is the result of my own (ongoing) effort to learn R and other computational research tools, host a hackathon to help researchers produce data processing and analysis pipelines, and figure out where the boundaries are between my own areas of (emerging, hopefully) expertise, and disciplinary expertise. 
 
-[ ] A conceptual framework for thinking about what librarians should be able to do computationally 
+My thought it to create a list (fancy name: framework) of areas/skills/competencies that I can reasonably help researchers and students with. A list of actual concrete things that you could put on a website or discuss in a department meeting and offer to your users. 
+
+#TODOOOO TO THIS DOCUMENT
+
 [x] References to recommendations for best practices
 [ ] set up github repro and github pages for this content
 [ ] best places for this content to live
+[ ] move images to github and add citations
+[ ] Spell check
 
 
 ![Areas that Libraries can Impact](https://d2mxuefqeaa7sj.cloudfront.net/s_8C52BE63C3C9994B7D61D2D293D2CAFA1962E529CB2D5E78CAD53CCC1AB84042_1507553995845_file.jpeg)
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_8C52BE63C3C9994B7D61D2D293D2CAFA1962E529CB2D5E78CAD53CCC1AB84042_1508257276286_screenshot.png)
 
-## Frames for why we should do this
+# Why we should do this
 - Better support for computational research
 - Support for data-intensive research, big data / etc
 - Data Management, Reproducibility, Rigor, and automating data processing and analysis
-## Specific Tasks/Teachable Outcomes for Librarians
-  **Meta Computational Research Skills**
+
+#Meta Computational Research Skills
+The following I am calling "meta skills" as they relate less to any particular function than helping users learn whats possible and how to do general things across languages. 
+
   - Picking a language
     - Why:
     - Skills:
@@ -56,15 +63,15 @@ COMputatIonal Competencies for Academic Librarians"
     - Automating Data Analysis Pipelines (presentation) http://stat545.com/automation01_slides/?utm_content=buffer92ec6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/automating-data-analysis-pipelines 
   
   
-  **Librarian specific Tasks**
-  - How to run searches in R?
+#Librarian specific Research Skills
+  - Running searches programmatically?
     - Pubmed
     - Scopus
-  - How do I conduct Bibliometrics / Scientometrics in R?
+  - Conducting Bibliometrics / Scientometrics
   - Text mining
   
   
-  **Basic skills with R**
+##Basic skills with R
   - How can I get X dataset into R?
     - Textual material 
     - Tabular/excel data
