@@ -7,7 +7,7 @@ This document is the result of my own (ongoing) effort to learn R and other comp
 
 My thought it to create a list (fancy name: framework) of areas/skills/competencies that I can reasonably help researchers and students with. A list of actual concrete things that you could put on a website or discuss in a department meeting and offer to your users. 
 
-#TODOOOO TO THIS DOCUMENT
+# TODOOOO TO THIS DOCUMENT
 
 [x] References to recommendations for best practices
 [ ] set up github repro and github pages for this content
@@ -25,7 +25,7 @@ My thought it to create a list (fancy name: framework) of areas/skills/competenc
 - Support for data-intensive research, big data / etc
 - Data Management, Reproducibility, Rigor, and automating data processing and analysis
 
-#Meta Computational Research Skills
+# Meta Computational Research Skills
 The following I am calling "meta skills" as they relate less to any particular function than helping users learn whats possible and how to do general things across languages. 
 
   - Picking a language
