@@ -28,37 +28,47 @@ My thought it to create a list (fancy name: framework) of areas/skills/competenc
 # Meta Computational Research Skills
 The following I am calling "meta skills" as they relate less to any particular function than helping users learn whats possible and how to do general things across languages. 
 
- ### Picking a language
+
+### Picking a language
     - Why:
     - Skills:
       - R
       - Python
       - Perkl
-  - Learning X language
+
+### Learning X language
     - Stratagies
     - Major sites
-  - Getting Help
+
+### Getting Help
     - Googling
     - Stackoverflow
     - How to ask for help
-  - Documenting your code
+
+### Documenting your code
     - GoodDoc https://github.com/NCBI-Hackathons/GoodDoc 
-  - Producing transparent documents 
+
+
+### Producing transparent documents 
     - RMarkdown - http://rmarkdown.rstudio.com/ 
     - RNotebooks - http://rmarkdown.rstudio.com/r_notebooks.html 
     - Jupyter Notebooks - http://jupyter.org/ 
-  - Sharing your code
+ 
+### Sharing your code
     - GitHub
-  - Reproducibility of Code
+
+### Reproducibility of Code
     - Containerization 
       - ReproZip - https://www.reprozip.org/ 
     - Tracking and documenting dependencies
     - Version control
       - Git - https://www.atlassian.com/git/tutorials 
-  - Reproducibility Via Code
+ 
+### Reproducibility Via Code
     - Avoiding manual data manipulation
     - Reproducible Research with R and RStudio (book) http://christophergandrud.github.io/RepResR-RStudio/ 
-  - Developing a Workflow
+
+### Developing a Workflow
     - Workflow: You should Have One https://speakerdeck.com/jennybc/workflow-you-should-have-one 
     - Automating Data Analysis Pipelines (presentation) http://stat545.com/automation01_slides/?utm_content=buffer92ec6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/automating-data-analysis-pipelines 
   
