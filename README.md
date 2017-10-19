@@ -32,25 +32,9 @@ This is not particilarily philosophically coherent.
 # Meta Computational Research Skills
 The following I am calling "meta skills" as they relate less to any particular function than helping users learn whats possible and how to do general things across languages. 
 
-## Highlu-Aligned Meta Skills
+## Highly-Aligned Meta Skills
 
-### Picking a language
-    - Why:
-    - Skills:
-      - R
-      - Python
-      - Perkl
-
-### Learning X language
-    - Stratagies
-    - Major sites
-
-### Getting Help
-    - Googling
-    - Stackoverflow
-    - How to ask for help
-
-### Documenting your code
+### Documenting code
     - GoodDoc https://github.com/NCBI-Hackathons/GoodDoc 
 
 
@@ -68,6 +52,24 @@ The following I am calling "meta skills" as they relate less to any particular f
     - Tracking and documenting dependencies
     - Version control
       - Git - https://www.atlassian.com/git/tutorials 
+
+## Moderately Aligned Meta Skills
+
+### Picking a language
+    - Why:
+    - Skills:
+      - R
+      - Python
+      - Perkl
+
+### Learning X language
+    - Stratagies
+    - Major sites
+
+### Getting Help
+    - Googling
+    - Stackoverflow
+    - How to ask for help
  
 ### Reproducibility Via Code
     - Avoiding manual data manipulation
@@ -77,8 +79,8 @@ The following I am calling "meta skills" as they relate less to any particular f
     - Workflow: You should Have One https://speakerdeck.com/jennybc/workflow-you-should-have-one 
     - Automating Data Analysis Pipelines (presentation) http://stat545.com/automation01_slides/?utm_content=buffer92ec6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/automating-data-analysis-pipelines 
   
-  
-#Librarian specific Research Skills
+
+# Librarian specific Research Skills
   - Running searches programmatically?
     - Pubmed
     - Scopus
@@ -86,7 +88,7 @@ The following I am calling "meta skills" as they relate less to any particular f
   - Text mining
   
   
-##Basic skills with R
+# Basic skills with R
   - How can I get X dataset into R?
     - Textual material 
     - Tabular/excel data
@@ -97,6 +99,7 @@ The following I am calling "meta skills" as they relate less to any particular f
   - How do I do basic data visualization in R?
     - Bar charts
     - Scatterplots
+
 ## Skills
 - Text Mining Pubmed tutorial: 
   - CRAN: https://cran.r-project.org/web/packages/pubmed.mineR/index.html 
