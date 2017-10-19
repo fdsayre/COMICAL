@@ -3,31 +3,36 @@ COMputatIonal Competencies for Academic Librarians"
 
 # Computational Research Skills for Librarians: A Framework
 
-This document is the result of my own (ongoing) effort to learn R and other computational research tools, host a hackathon to help researchers produce data processing and analysis pipelines, and figure out where the boundaries are between my own areas of (emerging, hopefully) expertise, and disciplinary expertise. 
+This document is the result of my own (ongoing) effort to learn computational research tools (e.g. R, git, etc.) and figure out where the boundaries are between my own areas of (emerging, hopefully) expertise, and disciplinary-specific expertise. Related is the hope to create  a list of concrete and pragmatic services that librarians could offer with computational tools as I think this has been a fuzzy area and has led problems both learning new skills and advertsing services to users. 
 
-My thought it to create a list (fancy name: framework) of areas/skills/competencies that I can reasonably help researchers and students with. A list of actual concrete things that you could put on a website or discuss in a department meeting and offer to your users. 
+More specifically, I want to think about what aspects of computational research are related to academic librarianship in a way that it makes sense for us to learn and teach them. For example, I think aspects of documentation, versioning, and code sharing are practically and philosophically highly related to our own practice, while things like complex data visualization and machine learning are less related to our work. Some specific skills I think are related to things we currently do, such as cleaning datasets computationally, bibliometric research, and text-mining fall in the middle. 
 
-# TODOOOO TO THIS DOCUMENT
+This is not particilarily philosophically coherent. 
 
-- References to recommendations for best practices
-- set up github repro and github pages for this content
+# TODO
+
+- Add references to recommendations for best practices related to data management in computational research
 - move images to github and add citations
 - Spell check
 
 
 ![Areas that Libraries can Impact](https://d2mxuefqeaa7sj.cloudfront.net/s_8C52BE63C3C9994B7D61D2D293D2CAFA1962E529CB2D5E78CAD53CCC1AB84042_1507553995845_file.jpeg)
 
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_8C52BE63C3C9994B7D61D2D293D2CAFA1962E529CB2D5E78CAD53CCC1AB84042_1508257276286_screenshot.png)
 
-# Why we should do this
+# Why we should librarians be involved in computational research
 - Better support for computational research across disciplines
-- Links between computational research, data management, and reproducibility
+- The link between computational research, data management, and reproducibility
+    - Computational research requires its own data management methods
+    - Computational research can itself help researchers be more reproducible as scripting data processing and analysis reduces researcher degrees of freedome, allows for auditability, and improves rigor.
 - Support for data-intensive research, big data, digital humanities, etc.
 - Data Management, Reproducibility, Rigor, and automating data processing and analysis
 
 # Meta Computational Research Skills
 The following I am calling "meta skills" as they relate less to any particular function than helping users learn whats possible and how to do general things across languages. 
 
+## Highlu-Aligned Meta Skills
 
 ### Picking a language
     - Why:
