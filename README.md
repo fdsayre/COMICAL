@@ -75,6 +75,7 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
 
 ### Developing a Workflow
     - Workflow: You should Have One https://speakerdeck.com/jennybc/workflow-you-should-have-one 
+        - Shirley Zhao, "Principles and Practices for Reproducible Science,"  https://github.com/shirl0207/reproducible_science
     - Automating Data Analysis Pipelines (presentation) http://stat545.com/automation01_slides/?utm_content=buffer92ec6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/automating-data-analysis-pipelines 
   
 ## Not Particularily Aligned Skills
