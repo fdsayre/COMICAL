@@ -1,10 +1,10 @@
 # Computational Research Skills for Librarians: A Framework
 
-This document is the result of my own (ongoing) effort to learn computational research tools (e.g. R, git, etc.) and deterine the boundaries between my areas of (emerging) expertise and expertise disciplinary-specific expertise from informatics, computer science, etc. The hope is to create a somewhat logical list of concrete services that academic librarians could offer for those learning or using computational tools in their research. I think this area has been fuzzy and it's made it hard to both learn skills and to offer services using those skills.
+This document is the result of my own (ongoing) effort to learn computational research tools (e.g. R, git, etc.) and determine the boundaries between my areas of (emerging) expertise and expertise disciplinary-specific expertise from informatics, computer science, etc. The hope is to create a somewhat logical list of concrete services that academic librarians could offer for those learning or using computational tools in their research. I think this area has been fuzzy and it's made it hard to both learn skills and to offer services using those skills.
 
-More specifically, I want to think about what aspects of computational research are related to academic librarianship in a way that it makes sense for us to learn, practice, and teach those aspects. For example, I think things like documentation, versioning, and code sharing are practically and philosophically highly aligned with our own existing practice, while things like complex data visualization and machine learning are less related to our work. Some specific things related services academic librarians already do like text-mining,  bibliometric research, and helping clean and normaize datasets fall in the middle. 
+More specifically, I want to think about what aspects of computational research are related to academic librarianship in a way that it makes sense for us to learn, practice, and teach those aspects. For example, I think things like documentation, versioning, and code sharing are practically and philosophically highly aligned with our own existing practice, while things like complex data visualization and machine learning are less related to our work. Some specific things related services academic librarians already do like text-mining,  bibliometric research, and helping clean and normalize datasets fall in the middle. 
 
-This is not a particilarily philosophically coherent document. 
+This is not a particularly philosophically coherent document. 
 
 I am never sure if anything I do is a good idea. 
 
@@ -18,11 +18,11 @@ I am never sure if anything I do is a good idea.
 - To better support existing computational research across disciplines
 - There is a link between computational research, data management, and reproducibility
     - Computational research requires its own data management methods
-    - Computational research can itself help researchers be more reproducible as scripting data processing and analysis reduces researcher degrees of freedome, allows for auditability, and improves rigor
+    - Computational research can itself help researchers be more reproducible as scripting data processing and analysis reduces researcher degrees of freedom, allows for auditability, and improves rigor
 - Many of the tasks we already do could be done better computationally
 
 # Meta Computational Research Skills
-The following is a list of skills/areas I'm calling "meta skills" as they relate less to any particular function than helping users learn whats possible and general skills regardless of discipline or programming language. 
+The following is a list of skills/areas I'm calling "meta skills" as they relate less to any particular function than helping users learn what's possible and general skills regardless of discipline or programming language. 
 
 ## Highly-Aligned Meta Skills
 
@@ -50,17 +50,17 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
 ## Moderately Aligned Meta Skills
 
 ### Picking a language
-    - What are the options, why pick a specific languahe, local supports for X languahe.
+    - What are the options? why pick a specific language? local supports for X language?
     - Options:
       - R
       - Python
-      - Perkl
+      - Perl
       - SAS / SPSS
-      - Markup langauges
+      - Markup languages
 
 ### Learning X language
     - Learning strategies and sites for learning a particular language.
-    - Stratagies
+    - Strategies
     - Major sites
 
 ### Getting Help
