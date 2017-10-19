@@ -14,12 +14,6 @@ I am never sure if anything I do is a good idea.
 - move images to github and add citations
 - Spell check
 
-
-![Areas that Libraries can Impact](https://d2mxuefqeaa7sj.cloudfront.net/s_8C52BE63C3C9994B7D61D2D293D2CAFA1962E529CB2D5E78CAD53CCC1AB84042_1507553995845_file.jpeg)
-
-
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_8C52BE63C3C9994B7D61D2D293D2CAFA1962E529CB2D5E78CAD53CCC1AB84042_1508257276286_screenshot.png)
-
 # Why we should librarians be involved in computational research
 - To better support existing computational research across disciplines
 - There is a link between computational research, data management, and reproducibility
