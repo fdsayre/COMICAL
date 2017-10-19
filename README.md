@@ -77,6 +77,13 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
     - Workflow: You should Have One https://speakerdeck.com/jennybc/workflow-you-should-have-one 
     - Automating Data Analysis Pipelines (presentation) http://stat545.com/automation01_slides/?utm_content=buffer92ec6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/automating-data-analysis-pipelines 
   
+## Not Particularily Aligned Skills
+
+### This is just a list
+    - Extensive programming experience in any specific language (the ability to be a fully-functional programmer)
+    - Data visualization
+    - Deep knowledge of statistical methods embedded in R/SAS/Etc
+    - Disiplinary specific skills (genomic analysis, etc.)
 
 # Librarian-Specific Programmatic Skills
   - Running searches programmatically?
