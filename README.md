@@ -6,7 +6,7 @@ More specifically, I want to think about what aspects of computational research 
 
 This is not a particularly philosophically coherent document. 
 
-I am never sure if anything I do is a good idea. 
+I am never totally sure if anything I do is a good idea. 
 
 # TODO
 
@@ -14,12 +14,12 @@ I am never sure if anything I do is a good idea.
 - move images to github and add citations
 - Spell check
 
-# Why we should librarians be involved in computational research
+# Why should librarians be involved in computational research
 - To better support existing computational research across disciplines
-- There is a link between computational research, data management, and reproducibility
+- To support data management and reproducibile research
     - Computational research requires its own data management methods
     - Computational research can itself help researchers be more reproducible as scripting data processing and analysis reduces researcher degrees of freedom, allows for auditability, and improves rigor
-- Many of the tasks we already do could be done better computationally
+- Many of the tasks we already do ourselves could be done better computationally
 
 # Meta Computational Research Skills
 The following is a list of skills/areas I'm calling "meta skills" as they relate less to any particular function than helping users learn what's possible and general skills regardless of discipline or programming language. 
