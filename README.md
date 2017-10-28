@@ -50,6 +50,24 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
 
 ## Moderately Aligned Meta Skills
 
+
+### Getting Help
+    - Mindset for getting help with programming issues, heavy on searching, copying, being iterative
+    - How to ask for help
+    - Googling
+    - Stackoverflow
+ 
+### Reproducibility Via Code (data management)
+    - Avoiding manual data manipulation
+    - Reproducible Research with R and RStudio (book) http://christophergandrud.github.io/RepResR-RStudio/ 
+
+### Developing a Workflow (data management)
+    - Workflow: You should Have One https://speakerdeck.com/jennybc/workflow-you-should-have-one 
+        - Shirley Zhao, "Principles and Practices for Reproducible Science,"  https://github.com/shirl0207/reproducible_science
+    - Automating Data Analysis Pipelines (presentation) http://stat545.com/automation01_slides/?utm_content=buffer92ec6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/automating-data-analysis-pipelines 
+  
+## Not Particularily Aligned Skills
+
 ### Picking a language
     - What are the options? why pick a specific language? local supports for X language?
     - Options:
@@ -64,22 +82,6 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
     - Strategies
     - Major sites
 
-### Getting Help
-    - Mindset for getting help with programming issues, heavy on searching, copying, being iterative
-    - How to ask for help
-    - Googling
-    - Stackoverflow
- 
-### Reproducibility Via Code
-    - Avoiding manual data manipulation
-    - Reproducible Research with R and RStudio (book) http://christophergandrud.github.io/RepResR-RStudio/ 
-
-### Developing a Workflow
-    - Workflow: You should Have One https://speakerdeck.com/jennybc/workflow-you-should-have-one 
-        - Shirley Zhao, "Principles and Practices for Reproducible Science,"  https://github.com/shirl0207/reproducible_science
-    - Automating Data Analysis Pipelines (presentation) http://stat545.com/automation01_slides/?utm_content=buffer92ec6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/automating-data-analysis-pipelines 
-  
-## Not Particularily Aligned Skills
 
 ### This is just a list
     - Extensive programming experience in any specific language (the ability to be a fully-functional programmer)
