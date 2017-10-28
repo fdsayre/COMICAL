@@ -26,23 +26,24 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
 
 ## Highly-Aligned Meta Skills
 
-### Documenting code (best practices)
+### Documenting code (data and code management)
     - GoodDoc https://github.com/NCBI-Hackathons/GoodDoc 
 
-### Producing transparent and reproducible documents 
+### Producing transparent and reproducible documents (reproducibility, transparency, open access)
     - RMarkdown - http://rmarkdown.rstudio.com/ 
     - RNotebooks - http://rmarkdown.rstudio.com/r_notebooks.html 
     - Jupyter Notebooks - http://jupyter.org/ 
     - Reveal.js for presentations 
  
-### Sharing code
+### Sharing code (data and code sharing)
     - GitHub
     - Repositories
     - Best practices for code reproducibility and stability (see "Reproducibility of Code"_
 
-### Reproducibility of Code
+### Reproducibility of Code (data management)
     - Containerization 
       - ReproZip - https://www.reprozip.org/ 
+      - Docker
     - Tracking and documenting dependencies
     - Version control
       - Git - https://www.atlassian.com/git/tutorials 
