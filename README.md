@@ -1,6 +1,6 @@
 # Computational Research Skills for Librarians: A Framework
 
-This document is the result of my own (ongoing) effort to learn open computational research tools (e.g. R, git, etc.) and determine the boundaries between my areas of expertise (broadly speaking: information organization and structure in the health sciences) and disciplinary-specific expertise such as that from informatics and computer science. The hope is to create a somewhat logical list of concrete services that academic librarians can offer for those learning or using computational tools in their research. I think this area has been fuzzy and it's made it hard to both learn skills and to offer services using those skills.
+This document is the result of my own (ongoing) effort to learn open computational research tools (e.g. R, git, etc.) and determine the boundaries between my areas of expertise (broadly speaking: information structure and organization in the health sciences) and disciplinary-specific expertise such as that from informatics and computer science. The hope is to create a somewhat logical list of concrete services that academic librarians can offer for those learning or using computational tools in their research. I think this area has been fuzzy and it's made it hard to both learn skills and to offer services using those skills.
 
 More specifically, I want to think about what aspects of computational research are related to academic librarianship such that it makes sense for us to learn, practice, and teach. For example, I think things like documentation, versioning, and code sharing are practically and philosophically highly aligned with our own existing practice, while things like complex data visualization and machine learning are not particilarily related to our work. Some specific things like text-mining,  bibliometric research, and helping clean and normalize datasets fall in the middle. 
 
@@ -15,11 +15,15 @@ I am never totally sure if anything I do is a good idea.
 - Spell check
 
 # Why should librarians be involved in computational research
-- To better support existing computational research across disciplines
+- Better support existing computational research across disciplines (bio-informatics, health informatics, etc.)
 - To support data management and reproducibile research
-    - Computational research requires its own data management methods
-    - Computational research can itself help researchers be more reproducible as scripting data processing and analysis reduces researcher degrees of freedom, allows for auditability, and improves rigor
+    - Computational research requires its own data management methods (need to curate code, deal with dependencies, find acceptable places for preservation and sharing)
+    - Computational research can itself help researchers produce better quality data and be more reproducible and rigorous as scripting data processing and analysis reduces researcher degrees of freedom, allows for auditability, and improves rigor
 - Many of the tasks we already do ourselves could be done better computationally
+	- Examples: 
+		- Searching databases programmatically for complex information like co-authorship, top grants for particular subfields
+		- Cleaning and normalizing data from internal sources (usage data, collections data) and users (research data)
+	
 
 # Meta Computational Research Skills
 The following is a list of skills/areas I'm calling "meta skills" as they relate less to any particular function than helping users learn what's possible and general skills regardless of discipline or programming language. 
@@ -38,7 +42,7 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
 ### Sharing code (data and code sharing)
     - GitHub
     - Repositories
-    - Best practices for code reproducibility and stability (see "Reproducibility of Code"_
+    - Best practices for code reproducibility and stability (see "Reproducibility of Code")
 
 ### Reproducibility of Code (data management)
     - Containerization 
@@ -47,6 +51,9 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
     - Tracking and documenting dependencies
     - Version control
       - Git - https://www.atlassian.com/git/tutorials 
+      	- https://github.com/k88hudson/git-flight-rules
+      	- http://neuroplausible.com/github 
+
 
 ## Moderately Aligned Meta Skills
 
