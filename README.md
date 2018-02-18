@@ -42,7 +42,7 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
 
 ### Version Control
 	- Git and Github 
-		- A Quick Introduction to Version Control with Git and GitHub - http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668
+		- [A Quick Introduction to Version Control with Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
 
 ### Sharing code (data and code sharing)
     - GitHub
