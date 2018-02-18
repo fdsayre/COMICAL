@@ -32,13 +32,18 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
 
 ### Documenting code (data and code management)
     - GoodDoc https://github.com/NCBI-Hackathons/GoodDoc 
+    - Best Practices for writing code
 
 ### Producing transparent and reproducible documents (reproducibility, transparency, open access)
     - RMarkdown - http://rmarkdown.rstudio.com/ 
     - RNotebooks - http://rmarkdown.rstudio.com/r_notebooks.html 
     - Jupyter Notebooks - http://jupyter.org/ 
     - Reveal.js for presentations 
- 
+
+### Version Control
+	- Git and Github 
+		- A Quick Introduction to Version Control with Git and GitHub - http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668
+
 ### Sharing code (data and code sharing)
     - GitHub
     - Repositories
@@ -57,7 +62,6 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
 
 ## Moderately Aligned Meta Skills
 
-
 ### Getting Help
     - Mindset for getting help with programming issues, heavy on searching, copying, being iterative
     - How to ask for help
@@ -72,13 +76,18 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
     - Workflow: You should Have One https://speakerdeck.com/jennybc/workflow-you-should-have-one 
         - Shirley Zhao, "Principles and Practices for Reproducible Science,"  https://github.com/shirl0207/reproducible_science
     - Automating Data Analysis Pipelines (presentation) http://stat545.com/automation01_slides/?utm_content=buffer92ec6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/automating-data-analysis-pipelines 
-  
+
+### What are some major topics in computational methods (meta-topics, not disciplinarily aligned)
+	- Machine Learning https://blog.safegraph.com/a-non-technical-introduction-to-machine-learning-b49fce202ae8 
+
 ## Not Particularily Aligned Skills
 
 ### Picking a language
     - What are the options? why pick a specific language? local supports for X language?
     - Options:
       - R
+      - BASH
+      	- Tutorial: https://github.com/liux1299/Bash_Demo
       - Python
       - Perl
       - SAS / SPSS
@@ -130,10 +139,12 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
 - Reproducible Research With R and RStuio http://christophergandrud.github.io/RepResR-RStudio/ 
 
 
-## Important Packages (move to new document)
-- Tidyverse - https://www.tidyverse.org/ 
-- DiagrammeR - http://rich-iannone.github.io/DiagrammeR/ (create diagrams with R)
-
+## Important Packages relevant to libraries (move to new document)
+- Tidyverse (R)- https://www.tidyverse.org/ 
+- DiagrammeR (R)- http://rich-iannone.github.io/DiagrammeR/ (create diagrams with R)
+- Fulltext (R): An R package to search across and get full text for journal articles - https://ropensci.github.io/fulltext-book/
+- OAcounts (Python): makes use of the free Crossref Rest API and the free Unpaywall Rest API to analyze how open access DOIs a journal has - https://github.com/ryregier/OAcounts
+- rcrossref: https://ropensci.org/tutorials/rcrossref_tutorial/
 
 ## References / Further Reading
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2016). Good enough practices in scientific computing. *arXiv Preprint*, arXiv:1609.00037. http://doi.org/10.1371/journal.pcbi.1005510 
