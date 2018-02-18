@@ -35,10 +35,11 @@ The following is a list of skills/areas I'm calling "meta skills" as they relate
     - Best Practices for writing code
 
 ### Producing transparent and reproducible documents (reproducibility, transparency, open access)
-    - RMarkdown - http://rmarkdown.rstudio.com/ 
-    - RNotebooks - http://rmarkdown.rstudio.com/r_notebooks.html 
-    - Jupyter Notebooks - http://jupyter.org/ 
-    - Reveal.js for presentations 
+
+[RMarkdown](http://rmarkdown.rstudio.com/)
+[RNotebooks](http://rmarkdown.rstudio.com/r_notebooks.html )
+{Jupyter Notebooks}(http://jupyter.org/ )
+[Reveal.js for presentations](https://revealjs.com/#/)
 
 ### Version Control
 
